@@ -1,0 +1,12 @@
+double x, y = 0, n = 0, k;
+x = int.Parse(Console.ReadLine());
+k = int.Parse(Console.ReadLine());
+
+while(n < k)
+{
+    y = ((double)Math.Sin(x) + y);
+    x = (double)Math.Sin(x);
+    n++;
+
+}
+Console.WriteLine(y);

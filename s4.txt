@@ -1,0 +1,10 @@
+double x = 99, y = 0, i;
+
+while(x >= 3)
+{   i = x;
+    y = (double)Math.Pow(i, 0.5);
+    x = x - 3;
+    i = (double)Math.Pow(i, 0.5);
+}
+Console.WriteLine(y);
+    
