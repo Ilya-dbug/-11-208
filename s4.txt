@@ -1,10 +1,12 @@
-double x = 99, y = 0, i;
+double x = double.Parse(Console.ReadLine());
+double y = 0;
+double p = 99;
+double k = Math.Sqrt(p);
 
-while(x >= 3)
-{   i = x;
-    y = (double)Math.Pow(i, 0.5);
-    x = x - 3;
-    i = (double)Math.Pow(i, 0.5);
+while(p > 0)
+{
+    y = Math.Sqrt(k + y);
+    k = Math.Sqrt(k);
+    p = p - 3;
 }
-Console.WriteLine(y);
-    
+Console.WriteLine($"ответ : {y}");
