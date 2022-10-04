@@ -1,0 +1,17 @@
+static double O_O(int k, double x)
+{
+    if ((k >= 0) && (Math.Abs(x) > 1)) { return (((Math.PI*Math.Sqrt(x*x))/(2*x)) - ((Math.Pow(-1, k)) / ((Math.Pow(x, 2 * k + 1)) * (2 * k + 1)))) + O_O(k - 1, x); }
+    else { return 0; }
+}
+
+double eps, xs;
+int i = 0;
+
+xs = double.Parse(Console.ReadLine());
+eps = double.Parse(Console.ReadLine());
+
+while (O_O(i, xs) < eps)
+{
+    i++;
+}
+Console.WriteLine(i);
