@@ -44,4 +44,4 @@ if (indmn > indmx)
     Console.WriteLine($"Сумма равна:{sum}");
 }
 
-if(indmn == indmx) { Console.WriteLine("Все числа равны"); }
+if(indmn == indmx) { Console.WriteLine("0"); }
