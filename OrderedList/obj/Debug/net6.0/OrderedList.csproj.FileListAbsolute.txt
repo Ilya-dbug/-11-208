@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\OrderedList\bin\Debug\net6.0\OrderedList.exe
+C:\Users\User\source\repos\OrderedList\bin\Debug\net6.0\OrderedList.deps.json
+C:\Users\User\source\repos\OrderedList\bin\Debug\net6.0\OrderedList.runtimeconfig.json
+C:\Users\User\source\repos\OrderedList\bin\Debug\net6.0\OrderedList.dll
+C:\Users\User\source\repos\OrderedList\bin\Debug\net6.0\OrderedList.pdb
+C:\Users\User\source\repos\OrderedList\obj\Debug\net6.0\OrderedList.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\OrderedList\obj\Debug\net6.0\OrderedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\OrderedList\obj\Debug\net6.0\OrderedList.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OrderedList\obj\Debug\net6.0\OrderedList.AssemblyInfo.cs
+C:\Users\User\source\repos\OrderedList\obj\Debug\net6.0\OrderedList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OrderedList\obj\Debug\net6.0\OrderedList.dll
+C:\Users\User\source\repos\OrderedList\obj\Debug\net6.0\refint\OrderedList.dll
+C:\Users\User\source\repos\OrderedList\obj\Debug\net6.0\OrderedList.pdb
+C:\Users\User\source\repos\OrderedList\obj\Debug\net6.0\OrderedList.genruntimeconfig.cache
+C:\Users\User\source\repos\OrderedList\obj\Debug\net6.0\ref\OrderedList.dll
