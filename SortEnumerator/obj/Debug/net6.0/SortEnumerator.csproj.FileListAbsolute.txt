@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\SortEnumerator\bin\Debug\net6.0\SortEnumerator.exe
+C:\Users\User\source\repos\SortEnumerator\bin\Debug\net6.0\SortEnumerator.deps.json
+C:\Users\User\source\repos\SortEnumerator\bin\Debug\net6.0\SortEnumerator.runtimeconfig.json
+C:\Users\User\source\repos\SortEnumerator\bin\Debug\net6.0\SortEnumerator.dll
+C:\Users\User\source\repos\SortEnumerator\bin\Debug\net6.0\SortEnumerator.pdb
+C:\Users\User\source\repos\SortEnumerator\obj\Debug\net6.0\SortEnumerator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SortEnumerator\obj\Debug\net6.0\SortEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SortEnumerator\obj\Debug\net6.0\SortEnumerator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SortEnumerator\obj\Debug\net6.0\SortEnumerator.AssemblyInfo.cs
+C:\Users\User\source\repos\SortEnumerator\obj\Debug\net6.0\SortEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SortEnumerator\obj\Debug\net6.0\SortEnumerator.dll
+C:\Users\User\source\repos\SortEnumerator\obj\Debug\net6.0\refint\SortEnumerator.dll
+C:\Users\User\source\repos\SortEnumerator\obj\Debug\net6.0\SortEnumerator.pdb
+C:\Users\User\source\repos\SortEnumerator\obj\Debug\net6.0\SortEnumerator.genruntimeconfig.cache
+C:\Users\User\source\repos\SortEnumerator\obj\Debug\net6.0\ref\SortEnumerator.dll
