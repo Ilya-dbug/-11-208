@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ChanAlgorithm\bin\Debug\net6.0\ChanAlgorithm.exe
+C:\Users\User\source\repos\ChanAlgorithm\bin\Debug\net6.0\ChanAlgorithm.deps.json
+C:\Users\User\source\repos\ChanAlgorithm\bin\Debug\net6.0\ChanAlgorithm.runtimeconfig.json
+C:\Users\User\source\repos\ChanAlgorithm\bin\Debug\net6.0\ChanAlgorithm.dll
+C:\Users\User\source\repos\ChanAlgorithm\bin\Debug\net6.0\ChanAlgorithm.pdb
+C:\Users\User\source\repos\ChanAlgorithm\obj\Debug\net6.0\ChanAlgorithm.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ChanAlgorithm\obj\Debug\net6.0\ChanAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ChanAlgorithm\obj\Debug\net6.0\ChanAlgorithm.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ChanAlgorithm\obj\Debug\net6.0\ChanAlgorithm.AssemblyInfo.cs
+C:\Users\User\source\repos\ChanAlgorithm\obj\Debug\net6.0\ChanAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ChanAlgorithm\obj\Debug\net6.0\ChanAlgorithm.dll
+C:\Users\User\source\repos\ChanAlgorithm\obj\Debug\net6.0\refint\ChanAlgorithm.dll
+C:\Users\User\source\repos\ChanAlgorithm\obj\Debug\net6.0\ChanAlgorithm.pdb
+C:\Users\User\source\repos\ChanAlgorithm\obj\Debug\net6.0\ChanAlgorithm.genruntimeconfig.cache
+C:\Users\User\source\repos\ChanAlgorithm\obj\Debug\net6.0\ref\ChanAlgorithm.dll
